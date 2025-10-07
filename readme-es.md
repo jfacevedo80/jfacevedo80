@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Juan Fernando Acevedo
+# 👋 Hola, soy Juan Fernando Acevedo
 
 <div align="center">
   
@@ -10,9 +10,9 @@
   
 </div>
 
-## 🚀 About Me
+## 🚀 Sobre Mí
 
-**Founder & Tech Lead** at **eNous** | Senior Fullstack Engineer with 10+ years of experience building scalable systems, robust backend architectures, and enterprise-level cross-platform applications.
+**Fundador & Tech Lead** en **eNous** | Ingeniero Fullstack Senior con 10+ años de experiencia construyendo sistemas escalables, arquitecturas backend robustas y aplicaciones multiplataforma de nivel empresarial.
 
 ```go
 type Developer struct {
@@ -27,34 +27,34 @@ me := Developer{
     Name:     "Juan Fernando Acevedo",
     Location: "Salta, Argentina 🇦🇷",
     Role:     "Founder & Tech Lead at eNous",
-    Passion:  "Transforming complex business needs into scalable technical solutions",
-    OpenTo:   []string{"Remote opportunities", "Tech Lead roles", "Solutions Architecture"},
+    Passion:  "Transformando necesidades complejas en soluciones técnicas escalables",
+    OpenTo:   []string{"Oportunidades remotas", "Roles de Tech Lead", "Arquitectura de Soluciones"},
 }
 ```
 
-## 💼 Current Experience
+## 💼 Experiencia Actual
 
-### 🎯 eNous - Enterprise CRM Platform (2020 - Present)
+### 🎯 eNous - Plataforma CRM Empresarial (2020 - Presente)
 
-Founded and lead the development of **eNous**, a modular CRM and document management system for the agribusiness sector:
+Fundé y lidero el desarrollo de **eNous**, un CRM modular y sistema de gestión documental para el sector agroindustrial:
 
-- 🔄 **Complete migration** from legacy stack (PHP/ExtJS) to modern architecture
-- ⚡ **Real-time synchronization** with Centrifugo and offline-first capabilities
-- 🔌 **ERP Integration** using Debezium + Kafka + custom ETL
-- 📱 **Cross-platform applications** with shared monorepo (web + mobile)
-- 🤖 **Intelligent automation**: OCR, workflows, analytic alerts
-- 🔐 **Advanced authentication** via Telegram with multi-factor validation
+- 🔄 **Migración completa** de stack legacy (PHP/ExtJS) a arquitectura moderna
+- ⚡ **Sincronización en tiempo real** con Centrifugo y capacidades offline-first
+- 🔌 **Integración ERP** usando Debezium + Kafka + ETL personalizado
+- 📱 **Aplicaciones multiplataforma** con monorepo compartido (web + mobile)
+- 🤖 **Automatización inteligente**: OCR, workflows, alertas analíticas
+- 🔐 **Autenticación avanzada** vía Telegram con validación multifactor
 
-### 🏢 AJU SRL - General Manager (2007 - Present)
+### 🏢 AJU SRL - Gerente General (2007 - Presente)
 
-Strategic leadership and digital transformation at an agrochemical distributor representing Bayer & Monsanto:
+Liderazgo estratégico y transformación digital en distribuidora agroquímica representando Bayer & Monsanto:
 
-- 📊 Implementation of BI, dashboards, and real-time analytics
-- 🛠️ Development of internal tools for entire operations
-- 💻 Complete IT infrastructure and DevOps management
-- 📈 Equity partner with participation in strategic decisions
+- 📊 Implementación de BI, dashboards y analítica en tiempo real
+- 🛠️ Desarrollo de herramientas internas para toda la operación
+- 💻 Gestión completa de infraestructura IT y DevOps
+- 📈 Socio accionario con participación en decisiones estratégicas
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Técnico
 
 <div align="center">
 
@@ -81,16 +81,18 @@ Strategic leadership and digital transformation at an agrochemical distributor r
 
 </div>
 
-### 🎨 Technical Architecture
+### 🎨 Arquitectura Técnica
 
 ```
 Frontend Layer:
 ├── React 19 + Vite + Tailwind (Web)
 ├── Flutter + Expo (Mobile)
+├── React Native (Mobile legacy)
 └── Tauri (Desktop)
 
 Backend Layer:
 ├── Go (Gin + pgx + goqu)
+├── PHP (Legacy systems)
 ├── PostgreSQL (CDC, triggers, UUIDv7)
 ├── Kafka + Debezium (Event streaming)
 └── Centrifugo (Real-time sync)
@@ -102,7 +104,7 @@ Infrastructure:
 └── Kubernetes k3s (Planned migration)
 ```
 
-## 📊 GitHub Statistics
+## 📊 Estadísticas GitHub
 
 <div align="center">
   
@@ -112,39 +114,39 @@ Infrastructure:
   
 </div>
 
-## 🎓 Education
+## 🎓 Educación
 
-- 🎓 **Bachelor's Degree in Business Administration** - Universidad Siglo 21
-- 🌍 **Dual Degree BBA** - College de Paris
-- 📊 **Master's in Business Intelligence & Data Exploitation** (Thesis pending)
+- 🎓 **Licenciatura en Administración de Empresas** - Universidad Siglo 21
+- 🌍 **Doble Titulación BBA** - College de Paris
+- 📊 **Maestría en Business Intelligence & Explotación de Datos** (Tesis pendiente)
 
-## 🌐 Languages
+## 🌐 Idiomas
 
-- 🇪🇸 **Spanish**: Native
-- 🇬🇧 **English**: Upper-Intermediate (B2.2, EF London)
+- 🇪🇸 **Español**: Nativo
+- 🇬🇧 **Inglés**: Intermedio-Alto (B2.2, EF London)
 
-## 🎯 Seeking Opportunities
+## 🎯 Buscando Oportunidades
 
-I'm open to collaborate on challenging projects such as:
+Estoy abierto a colaborar en proyectos desafiantes como:
 
-- 💡 **Tech Lead** or **Solutions Architect** in global teams
-- 🌐 **Remote roles** (part-time or full-time)
-- 🚀 Projects involving **distributed architectures**, **real-time data**, and **scalable systems**
-- 🤝 High-level technical consulting and **code review**
+- 💡 **Tech Lead** o **Solutions Architect** en equipos globales
+- 🌐 **Roles remotos** (tiempo parcial o completo)
+- 🚀 Proyectos que involucren **arquitecturas distribuidas**, **real-time data** y **sistemas escalables**
+- 🤝 Consultoría técnica y **code review** de alto nivel
 
-## 📫 Contact
+## 📫 Contacto
 
 - 📧 Email: [jfacevedo@hotmail.com](mailto:jfacevedo@hotmail.com) | [fernando@ajusrl.com.ar](mailto:fernando@ajusrl.com.ar)
 - 💼 LinkedIn: [juan-fernando-acevedo](https://linkedin.com/in/juan-fernando-acevedo)
 - 📱 WhatsApp: +54 9 387 488 8605
-- 📍 Location: Salta, Argentina (Remote-first | Open to relocation)
+- 📍 Ubicación: Salta, Argentina (Trabajo remoto | Abierto a reubicación)
 
 ---
 
 <div align="center">
   
-  ### 💭 "Transforming complex needs into elegant technical solutions"
+  ### 💭 "Transformando necesidades complejas en soluciones técnicas elegantes"
   
-  ⭐️ If you like my work, feel free to star my repos
+  ⭐️ Si te gusta mi trabajo, no dudes en darle una estrella a mis repos
   
 </div>
