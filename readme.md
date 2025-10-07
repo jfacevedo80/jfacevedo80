@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **[🇬🇧 English](./README.md)** | **[🇪🇸 Español](./README-es.md)**
+  **[🇬🇧 English](./readme.md)** | **[🇪🇸 Español](./readme-es.md)**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-fernando-acevedo)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jfacevedo@hotmail.com)
