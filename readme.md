@@ -87,5 +87,5 @@ Open to **Senior Go Backend Engineer** roles (remote / international).
 
 ## 📫 Contact
 
-- Email: jfacevedo@hotmail.com
+- Email: juan.fernando.acevedo.80@gmail.com
 - LinkedIn: https://linkedin.com/in/juan-fernando-acevedo
